@@ -13,3 +13,6 @@
 - [x] create and append json file report
 - [x] app must run in background without interference
 
+
+## Usage
+    python autotimer.py
