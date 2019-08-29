@@ -1,10 +1,10 @@
-#goal:
+# goal:
     time traking app
-###feature: 
+### feature: 
     mainly track users activity
     what amount is spend on the app and website
 
-###todo
+### todo
 - track the user activity
 -    [x] which app user is currently on
 -    [x] if website then which url or domain name only
